@@ -7,7 +7,9 @@
 ## Chrome 插件
 
 ## 使用方法一（推荐）
-在应用商店搜索 "AntiZhihuPrivacyPolicy" 或 "知乎隐私"
+在[Chrome应用商店](https://chrome.google.com/webstore/detail/antizhihuprivacypolicy/ohgedepmjjdcnbnngfmmgjhdmaklpapm?hl=en-US)搜索 "AntiZhihuPrivacyPolicy" 或 "知乎隐私"
+
+[链接地址](https://chrome.google.com/webstore/detail/antizhihuprivacypolicy/ohgedepmjjdcnbnngfmmgjhdmaklpapm?hl=en-US)
 
 ## 使用方法二
 [点击下载](https://github.com/stdrickforce/AntiZhihuPrivacyPolicy/releases/tag/1.0.0)
